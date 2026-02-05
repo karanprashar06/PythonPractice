@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01ecd4b1-7997-4f37-9764-ef03073b56f3" name="Changes" comment="Updated Code">
-      <change afterPath="$PROJECT_DIR$/src/Practice_250_DSA_Questions/01_How_to_take_input_from_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_250_DSA_Questions/02_Print_TABLE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_250_DSA_Questions/03_FizzBuzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_250_DSA_Questions/04_Palindrome_checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_250_DSA_Questions/05_Grade Calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_250_DSA_Questions/06_Leap_Year_Checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_250_DSA_Questions/07_Triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/01_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/02_knowing_sep_end.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/03_Fibbonachi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/04_fibonachi_recurssion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/05_end_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_250_DSA_Questions/08_Right Triangle Star Pattern.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,57 +60,14 @@
     "Python.05_Grade Calculator.executor": "Run",
     "Python.05_end_types.executor": "Run",
     "Python.07_Triangle.executor": "Run",
+    "Python.08_Right Triangle Star Pattern.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.07_Triangle">
-    <configuration name="02_Print_TABLE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonPractice" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_250_DSA_Questions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_250_DSA_Questions/02_Print_TABLE.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="03_FizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonPractice" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_250_DSA_Questions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_250_DSA_Questions/03_FizzBuzz.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.08_i_reverse triangle">
     <configuration name="04_Palindrome_checker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice" />
       <option name="ENV_FILES" value="" />
@@ -188,13 +134,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="08_Right Triangle Star Pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_250_DSA_Questions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_250_DSA_Questions/08_Right Triangle Star Pattern.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="08_i_reverse triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_250_DSA_Questions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\karan\PycharmProjects\PythonPractice\src\Practice_250_DSA_Questions\08_i_reverse triangle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.08_i_reverse triangle" />
+        <item itemvalue="Python.08_Right Triangle Star Pattern" />
         <item itemvalue="Python.07_Triangle" />
         <item itemvalue="Python.05_Grade Calculator" />
         <item itemvalue="Python.04_Palindrome_checker" />
-        <item itemvalue="Python.03_FizzBuzz" />
-        <item itemvalue="Python.02_Print_TABLE" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +211,23 @@
       <option name="project" value="LOCAL" />
       <updated>1770187607175</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated Code">
+      <option name="closed" value="true" />
+      <created>1770195224122</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770195224122</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated Code">
+      <option name="closed" value="true" />
+      <created>1770195237033</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770195237033</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
