@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01ecd4b1-7997-4f37-9764-ef03073b56f3" name="Changes" comment="New Task added">
-      <change afterPath="$PROJECT_DIR$/src/Practice_250_DSA_Questions/10_Prime number checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_250_DSA_Questions/11_Palindrome of string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_250_DSA_Questions/12_Reverse the sentence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_250_DSA_Questions/12_Reverse words in-place (using split).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_250_DSA_Questions/13_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_250_DSA_Questions/13_i_remove duplicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_250_DSA_Questions/14_Anagram checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_250_DSA_Questions/14_i_anagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_250_DSA_Questions/15_Email regex validation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_250_DSA_Questions/16_Exceptions (example).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_250_DSA_Questions/17_File read and tokenize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/06_First_nonrepeating_from_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/07_Dictionary_ques.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/07_i_Dictionary_ques.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/08_dictionary_explained.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/09_Dic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice_250_DSA_Questions/09_Count vowels and consonants.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_250_DSA_Questions/09_Count vowels and consonants.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +63,12 @@
     "Python.04_fibonachi_recurssion.executor": "Run",
     "Python.05_Grade Calculator.executor": "Run",
     "Python.05_end_types.executor": "Run",
+    "Python.06_First_nonrepeating_from_set.executor": "Run",
+    "Python.07_Dictionary_ques.executor": "Run",
     "Python.07_Triangle.executor": "Run",
+    "Python.07_i_Dictionary_ques.executor": "Run",
     "Python.08_Right Triangle Star Pattern.executor": "Run",
+    "Python.08_dictionary_explained.executor": "Run",
     "Python.09_Count vowels and consonants.executor": "Run",
     "Python.09_i_reverse triangle.executor": "Run",
     "Python.10_Prime number checker.executor": "Run",
@@ -90,8 +87,8 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.16_Exceptions (example)">
-    <configuration name="13_" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.07_i_Dictionary_ques">
+    <configuration name="06_First_nonrepeating_from_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_250_DSA_Questions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_Rough" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_250_DSA_Questions/13_.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_Rough/06_First_nonrepeating_from_set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13_i_remove duplicate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_Dictionary_ques" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_250_DSA_Questions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_Rough" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_250_DSA_Questions/13_i_remove duplicate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_Rough/07_Dictionary_ques.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14_Anagram checker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_i_Dictionary_ques" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_250_DSA_Questions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_Rough" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_250_DSA_Questions/14_Anagram checker.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_Rough/07_i_Dictionary_ques.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14_i_anagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08_dictionary_explained" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,11 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_250_DSA_Questions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_Rough" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_250_DSA_Questions/14_i_anagram.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_Rough/08_dictionary_explained.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.07_i_Dictionary_ques" />
+        <item itemvalue="Python.07_Dictionary_ques" />
+        <item itemvalue="Python.08_dictionary_explained" />
+        <item itemvalue="Python.06_First_nonrepeating_from_set" />
         <item itemvalue="Python.16_Exceptions (example)" />
-        <item itemvalue="Python.14_i_anagram" />
-        <item itemvalue="Python.14_Anagram checker" />
-        <item itemvalue="Python.13_i_remove duplicate" />
-        <item itemvalue="Python.13_" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770279810208</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="New Task added">
+      <option name="closed" value="true" />
+      <created>1770286664709</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770286664709</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
