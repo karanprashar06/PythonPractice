@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01ecd4b1-7997-4f37-9764-ef03073b56f3" name="Changes" comment="New Task added">
-      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/06_First_nonrepeating_from_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/07_Dictionary_ques.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/07_i_Dictionary_ques.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/08_dictionary_explained.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/09_Dic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/10_Vowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/11_vowel_t0_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/11_vowels_and_consonants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/12_class_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/13_encapsulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/14_rev+spacing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_250_DSA_Questions/14_i_anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_250_DSA_Questions/14_i_anagram.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,23 +75,30 @@
     "Python.09_Count vowels and consonants.executor": "Run",
     "Python.09_i_reverse triangle.executor": "Run",
     "Python.10_Prime number checker.executor": "Run",
+    "Python.10_Vowels.executor": "Run",
     "Python.11_Palindrome of string.executor": "Run",
+    "Python.11_vowel_t0_dictionary.executor": "Run",
+    "Python.11_vowels_and_consonants.executor": "Run",
     "Python.12_Reverse the sentence.executor": "Run",
     "Python.12_Reverse words in-place (using split).executor": "Run",
+    "Python.12_class_ex.executor": "Run",
     "Python.13_.executor": "Run",
     "Python.13_Remove duplicate chars from string.executor": "Run",
+    "Python.13_encapsulation.executor": "Run",
     "Python.13_i_remove duplicate.executor": "Run",
     "Python.14_Anagram checker.executor": "Run",
     "Python.14_i_anagram.executor": "Run",
+    "Python.14_rev+spacing.executor": "Run",
     "Python.16_Exceptions (example).executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.07_i_Dictionary_ques">
-    <configuration name="06_First_nonrepeating_from_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.14_rev+spacing">
+    <configuration name="12_class_ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_Rough/06_First_nonrepeating_from_set.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_Rough/12_class_ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_Dictionary_ques" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="13_encapsulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_Rough/07_Dictionary_ques.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_Rough/13_encapsulation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,51 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_i_Dictionary_ques" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonPractice" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_Rough" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_Rough/07_i_Dictionary_ques.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="08_dictionary_explained" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonPractice" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_Rough" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_Rough/08_dictionary_explained.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="16_Exceptions (example)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="14_i_anagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,7 +155,51 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_250_DSA_Questions/16_Exceptions (example).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_250_DSA_Questions/14_i_anagram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="14_rev+spacing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_Rough" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_Rough/14_rev+spacing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_Rough" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_Rough/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.07_i_Dictionary_ques" />
-        <item itemvalue="Python.07_Dictionary_ques" />
-        <item itemvalue="Python.08_dictionary_explained" />
-        <item itemvalue="Python.06_First_nonrepeating_from_set" />
-        <item itemvalue="Python.16_Exceptions (example)" />
+        <item itemvalue="Python.14_rev+spacing" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.13_encapsulation" />
+        <item itemvalue="Python.12_class_ex" />
+        <item itemvalue="Python.14_i_anagram" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770286664709</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="New Task added">
+      <option name="closed" value="true" />
+      <created>1770974798626</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770974798627</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -14,7 +14,7 @@ def is_anagram(s1, s2):
 
     return True
 
-s1 = input("Enter first string: ").lower().replace(" ", "")
-s2 = input("Enter second string: ").lower().replace(" ", "")
+s1 = "karan"
+s2 = "narak"
 
 print("Anagram" if is_anagram(s1, s2) else "Not an anagram")
