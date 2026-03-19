@@ -5,25 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01ecd4b1-7997-4f37-9764-ef03073b56f3" name="Changes" comment="New Task added">
-      <change afterPath="$PROJECT_DIR$/src/Practice_Infosys/01_fib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Infosys/02_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Infosys/02_palindroioime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Infosys/04_find_maxium in a list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Infosys/05_linera_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Infosys/06_binary_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Infosys/07_Remove_duplicate_from_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Infosys/08_sort string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Infosys/09_Reverse Words in a Sentenc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Infosys/10_Count Words in a String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Infosys/11_Remove Extra Spaces.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Infosys/12_csv string tolist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Infosys/13_Convert List to CSV String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Infosys/14_Capitalize First Letter of Every Word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Infosys/15_Remove Duplicate Words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/15_new_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/16_linear_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Rough/17_binary_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Concepts/01_data_abstraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Concepts/02_data_encapsulation_public_variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Concepts/03_data_encapsulation_protected_variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Concepts/04_03_data_encapsulation_private_variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Concepts/05_Getter and Setter (Best Encapsulation Practice).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Concepts/06_Polymorphism_Method Overloading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Concepts/07_Polymorphism_Method Overriding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Concepts/08_Polymorphism Example in Selenium Automation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Leet_code_Problems/01_Two_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Leet_code_Problems/02_palindrome.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_Rough/03_Fibbonachi.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_Rough/03_Fibbonachi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,69 +56,82 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.01_How_to_take_input_from_user.executor": "Run",
-    "Python.01_fib.executor": "Run",
-    "Python.01_palindrome.executor": "Run",
-    "Python.02_Fibbonachi.executor": "Run",
-    "Python.02_Print_TABLE.executor": "Run",
-    "Python.02_dict.executor": "Run",
-    "Python.02_knowing_sep_end.executor": "Run",
-    "Python.02_palindroioime.executor": "Run",
-    "Python.03_FizzBuzz.executor": "Run",
-    "Python.04_Palindrome_checker.executor": "Run",
-    "Python.04_fibonachi_recurssion.executor": "Run",
-    "Python.04_find_maxium in a list.executor": "Run",
-    "Python.05_Grade Calculator.executor": "Run",
-    "Python.05_end_types.executor": "Run",
-    "Python.05_linera_search.executor": "Run",
-    "Python.06_First_nonrepeating_from_set.executor": "Run",
-    "Python.06_binary_search.executor": "Run",
-    "Python.07_Dictionary_ques.executor": "Run",
-    "Python.07_Remove_duplicate_from_list.executor": "Run",
-    "Python.07_Triangle.executor": "Run",
-    "Python.07_i_Dictionary_ques.executor": "Run",
-    "Python.08_Right Triangle Star Pattern.executor": "Run",
-    "Python.08_dictionary_explained.executor": "Run",
-    "Python.08_sort string.executor": "Run",
-    "Python.09_Count vowels and consonants.executor": "Run",
-    "Python.09_Reverse Words in a Sentenc.executor": "Run",
-    "Python.09_i_reverse triangle.executor": "Run",
-    "Python.10_Count Words in a String.executor": "Run",
-    "Python.10_Prime number checker.executor": "Run",
-    "Python.10_Vowels.executor": "Run",
-    "Python.11_Palindrome of string.executor": "Run",
-    "Python.11_Remove Extra Spaces.executor": "Run",
-    "Python.11_vowel_t0_dictionary.executor": "Run",
-    "Python.11_vowels_and_consonants.executor": "Run",
-    "Python.12_Reverse the sentence.executor": "Run",
-    "Python.12_Reverse words in-place (using split).executor": "Run",
-    "Python.12_class_ex.executor": "Run",
-    "Python.12_csv string tolist.executor": "Run",
-    "Python.13_.executor": "Run",
-    "Python.13_Remove duplicate chars from string.executor": "Run",
-    "Python.13_encapsulation.executor": "Run",
-    "Python.13_i_remove duplicate.executor": "Run",
-    "Python.14_Anagram checker.executor": "Run",
-    "Python.14_Capitalize First Letter of Every Word.executor": "Run",
-    "Python.14_i_anagram.executor": "Run",
-    "Python.14_rev+spacing.executor": "Run",
-    "Python.15_Remove Duplicate Words.executor": "Run",
-    "Python.15_new_file.executor": "Run",
-    "Python.16_Exceptions (example).executor": "Run",
-    "Python.16_linear_sort.executor": "Run",
-    "Python.17_binary_sort.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.01_How_to_take_input_from_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_Two_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_data_abstraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_fib.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_Fibbonachi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_Print_TABLE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_data_encapsulation_public_variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_knowing_sep_end.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_palindroioime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_Fibbonachi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_data_encapsulation_protected_variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_03_data_encapsulation_private_variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_Palindrome_checker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_fibonachi_recurssion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_find_maxium in a list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_Getter and Setter (Best Encapsulation Practice).executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_Grade Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_end_types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_linera_search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_First_nonrepeating_from_set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_binary_search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_Dictionary_ques.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_Polymorphism_Method Overriding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_Remove_duplicate_from_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_i_Dictionary_ques.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_Polymorphism Example in Selenium Automation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_Right Triangle Star Pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_dictionary_explained.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_i_reverse triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_sort string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09_Count vowels and consonants.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09_Reverse Words in a Sentenc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09_i_reverse triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10_Count Words in a String.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10_Prime number checker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10_Vowels.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11_Palindrome of string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11_Remove Extra Spaces.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11_vowel_t0_dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11_vowels_and_consonants.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12_Reverse the sentence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12_Reverse words in-place (using split).executor&quot;: &quot;Run&quot;,
+    &quot;Python.12_class_ex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12_csv string tolist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13_Remove duplicate chars from string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13_encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13_i_remove duplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14_Anagram checker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14_Capitalize First Letter of Every Word.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14_i_anagram.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14_rev+spacing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15_Remove Duplicate Words.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15_new_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16_Exceptions (example).executor&quot;: &quot;Run&quot;,
+    &quot;Python.16_Find Longest Word in Sentence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16_linear_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17_binary_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18_Reverse Sentence BUT Maintain Original Word Length Pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.18_Reverse Sentence BUT Maintain Original Word Length Pattern">
-    <configuration name="12_csv string tolist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.02_palindrome">
+    <configuration name="01_Two_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_Infosys" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_Leet_code_Problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_Infosys/12_csv string tolist.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_Leet_code_Problems/01_Two_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14_Capitalize First Letter of Every Word" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="01_data_abstraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,11 +162,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_Infosys" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_Concepts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_Infosys/14_Capitalize First Letter of Every Word.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_Concepts/01_data_abstraction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15_Remove Duplicate Words" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,11 +184,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_Infosys" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_Leet_code_Problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_Infosys/15_Remove Duplicate Words.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_Leet_code_Problems/02_palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16_Find Longest Word in Sentence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_Polymorphism_Method Overriding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,11 +206,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_Infosys" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_Concepts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_Infosys/16_Find Longest Word in Sentence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_Concepts/07_Polymorphism_Method Overriding.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,7 +219,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="18_Reverse Sentence BUT Maintain Original Word Length Pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08_Polymorphism Example in Selenium Automation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -222,11 +228,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_Infosys" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice_Concepts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_Infosys/18_Reverse Sentence BUT Maintain Original Word Length Pattern.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Practice_Concepts/08_Polymorphism Example in Selenium Automation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -237,11 +243,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.18_Reverse Sentence BUT Maintain Original Word Length Pattern" />
-        <item itemvalue="Python.16_Find Longest Word in Sentence" />
-        <item itemvalue="Python.15_Remove Duplicate Words" />
-        <item itemvalue="Python.14_Capitalize First Letter of Every Word" />
-        <item itemvalue="Python.12_csv string tolist" />
+        <item itemvalue="Python.02_palindrome" />
+        <item itemvalue="Python.01_Two_sum" />
+        <item itemvalue="Python.08_Polymorphism Example in Selenium Automation" />
+        <item itemvalue="Python.01_data_abstraction" />
+        <item itemvalue="Python.07_Polymorphism_Method Overriding" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +314,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770974798627</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="New Task added">
+      <option name="closed" value="true" />
+      <created>1771853316747</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1771853316747</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
